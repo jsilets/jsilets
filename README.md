@@ -1,4 +1,6 @@
-👋 Hi, I’m Joshua Silets. Here's a shortlist about what I'm currently doing.
+👋  Hi there, I’m Joshua Silets. Most of my work here is in private repositories so you probably won't be able to see anything unless I am currently working on something public.
+
+Here's a shortlist about what I'm currently doing.
 
 - Bioinformatics Research @ The University of Chicago
 - Studying Artificial Intelligence @ Illinois Tech
